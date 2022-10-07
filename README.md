@@ -15,6 +15,6 @@ Note:
 - Constructive feedback is welcome. 
 - The period is optimized for monthly inputs. Weekly works
 - Retrieving the tickers for the individual stocks may be a bit of a hustle
-
+- wishlist_schedule.yml is set up to run manually.
 
 

@@ -1,4 +1,4 @@
-This application is a wishlist for stocks. It sends an automated update once a week per e-mail, so you don't have to manually check. 
+This application is a wishlist for stocks. It sends an automated update once a month, week or day (set up via github actions) per e-mail, so you don't have to manually check. 
 Within the sent e-mail, it provides a quick table for its performance as well as a few charts. 
 
 To use this application, the following steps should be followed:

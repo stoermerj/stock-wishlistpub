@@ -5,7 +5,7 @@ import send_gmail
 import pandas as pd
 import os
 
-STOCK_INPUT = ['ads.de', 'alv.de', 'bas.de', 'bei.de', 'bmw.de', 'BNP.PA', 'BA', 'dpw.de', 'dte.de', 'gis.de', 'hen.de', 'H2X3.MU', 'intc', 'jnj', 'b4b.de', 'msft', 'nvda', 'pep', 'pg', 'pum.de', 'sap.de', 'khc', 'wmt', 'wbd']
+STOCK_INPUT = ['GM', 'ads.de', 'alv.de', 'bas.de', 'bei.de', 'bmw.de', 'BNP.PA', 'BA', 'dpw.de', 'dte.de', 'gis.de', 'hen.de', 'H2X3.MU', 'intc', 'jnj', 'b4b.de', 'msft', 'nvda', 'pep', 'pg', 'pum.de', 'sap.de', 'khc', 'wmt', 'wbd']
 PERIOD_INPUT = ['monthly'] #input is weekly or monthly
 
 def main():
@@ -89,3 +89,4 @@ TODO: Find tickers of companies
 TODO: Add exception for stocks that are only in index for less than a year
 TODO: Show error messages in mail for stocks
 '''
+
